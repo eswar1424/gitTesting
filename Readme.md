@@ -1,9 +1,8 @@
 #Hi
 
-#Hello
-
 #How are you?
 
 #I am fine.
 
-#how about you
+#How about you?
+
